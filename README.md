@@ -112,7 +112,14 @@ lib/
 └── widgets/
     └── custom_drawer.dart
 ```
+## 📁 APK structure
 
----
+```
+build/
+├── app/
+    └── outputs/
+           └── flutter-apk/
+                   └── unit-converter.apk
+```
 
-_Thanks for using Unit Converter App!_
+## 🤝 Thanks for using unit converter App!!
